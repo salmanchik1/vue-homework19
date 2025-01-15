@@ -92,5 +92,4 @@ ul {
     flex-direction: column;
     gap: 10px;
 }
-
 </style>
